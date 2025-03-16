@@ -1,0 +1,6 @@
+@GrowthTracking.APIServices_HostAddress = http://localhost:5056
+
+GET {{GrowthTracking.APIServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
